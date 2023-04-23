@@ -16,7 +16,7 @@ The document can help to establish the requirements and constraints for the proj
 
 If I could revise one part of this document, I would improve the Domain Model section by adding more details about the relationships between classes, particularly the one-to-many associations. Specifically, I would update the Game, GameService, Team and Player classes to have a zero to many association instead of one to many, as this better reflects the requirements for the game. Additionally, I would provide more information about the attributes and methods of each class, as well as include examples to illustrate how the classes are used in the game. This would improve implementation efficiency and effectiveness since the development team would have a better knowledge of how the domain model translates into the actual code.
 
-**How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?**
+**How did you interpret the user's needs and implement them into your software design? Why is it so important to consider the user's needs when designing?**
 
 To implement their needs into the design, I read and analyzed the requirements provided by the client. Then, I used that information to create a plan for how the software would function and what features it would have. It's important to consider the user's needs when designing software because it ensures that the end product is practical, user-friendly, and addresses the user's problems. If we don't take the user's needs into account, the software may be difficult to use or not meet their expectations, resulting in a negative user experience.
 
