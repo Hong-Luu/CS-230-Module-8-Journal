@@ -18,4 +18,11 @@ If I could revise one part of this document, I would improve the Domain Model se
 
 **How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?**
 
+To implement their needs into the design, I read and analyzed the requirements provided by the client. Then, I used that information to create a plan for how the software would function and what features it would have. It's important to consider the user's needs when designing software because it ensures that the end product is practical, user-friendly, and addresses the user's problems. If we don't take the user's needs into account, the software may be difficult to use or not meet their expectations, resulting in a negative user experience.
+
+**How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?**
+
+When designing software, I started by gathering and analyzing information about the project requirements and client needs. Then I created a plan for the project and identified the necessary components and functions. I used brainstorming and sketching to visualize the software design and refine it until it met the requirements. Finally, I created detailed documentation to guide the development process and ensure that the final product met the client's needs.
+
+To analyze and design a similar software application in the future, I would first gather the requirements and prioritize them based on their importance. Then I would create a design document that outlines the system architecture, domain model, and other necessary components. I would also use object-oriented programming principles to design the classes and their relationships. Additionally, I would continuously test and iterate on the design to ensure it meets the user's needs and is scalable, reliable, and maintainable. Finally, I also want to consider the industry best practices and stay up to date with updating the software to stay active against security threats. 
 
